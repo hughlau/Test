@@ -1,0 +1,5 @@
+E:\MyProject\HybirdApp\App_1\APP_ONE\APP_ONE\bin\APP_ONE.dll
+E:\MyProject\HybirdApp\App_1\APP_ONE\APP_ONE\bin\APP_ONE.pdb
+E:\MyProject\HybirdApp\App_1\APP_ONE\APP_ONE\obj\Debug\APP_ONE.csprojResolveAssemblyReference.cache
+E:\MyProject\HybirdApp\App_1\APP_ONE\APP_ONE\obj\Debug\APP_ONE.dll
+E:\MyProject\HybirdApp\App_1\APP_ONE\APP_ONE\obj\Debug\APP_ONE.pdb
